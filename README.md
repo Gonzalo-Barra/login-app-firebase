@@ -1,4 +1,17 @@
-# loginapp
+# login app
+
+Descripción
+=========
+Aplicación hecha en Vue.js(option api) ocupando la herramienta de autenticación de firebase
+
+Librerias ocupadas
+---------
+* sweetalert2 [sweetalert2]([http://a.com](https://sweetalert2.github.io/))
+* vue-router
+* firebase
+* bootstrap-vue
+
+
 
 ## Project setup
 ```
