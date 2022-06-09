@@ -2,7 +2,8 @@
 
 Descripción
 =========
-Aplicación hecha en Vue.js 2(option api) ocupando la herramienta de autenticación de firebase
+Aplicación hecha en Vue.js 2(option api) ocupando la herramienta de autenticación de firebase.
+Posee creación de usuario, recuperación de contraseña y menú principal post-login
 
 Librerias ocupadas
 ---------
