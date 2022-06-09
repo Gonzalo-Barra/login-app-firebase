@@ -2,14 +2,14 @@
 
 Descripción
 =========
-Aplicación hecha en Vue.js(option api) ocupando la herramienta de autenticación de firebase
+Aplicación hecha en Vue.js 2(option api) ocupando la herramienta de autenticación de firebase
 
 Librerias ocupadas
 ---------
 *  [SweetAlert2](https://sweetalert2.github.io)
 * vue-router
-* firebase
-* bootstrap-vue
+* [Firebase Autenticación](https://firebase.google.com/products/auth?gclid=CjwKCAjwkYGVBhArEiwA4sZLuKnKkeNepNdBdkaP2Zy7MPWJ4ZUM9YjwOuEj0HfsbaUfSAGwdLPKqBoCyFwQAvD_BwE&gclsrc=aw.ds)
+* [Bootstrap-vue](https://bootstrap-vue.org/)
 
 
 
