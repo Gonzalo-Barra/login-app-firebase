@@ -6,7 +6,7 @@ Aplicación hecha en Vue.js(option api) ocupando la herramienta de autenticació
 
 Librerias ocupadas
 ---------
-* sweetalert2 [Link](http://a.com](https://sweetalert2.github.io/)
+* sweetalert2 [Link](http://a.com](https://sweetalert2.github.io)
 * vue-router
 * firebase
 * bootstrap-vue
